@@ -4,6 +4,19 @@ header {
 }
 
 #header-brand {
+}
 
+body, main {
+  background-color: bisque;
+  justify-content: center;
+}
+
+p {
+  justify-content: center;
+}
+
+footer {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
